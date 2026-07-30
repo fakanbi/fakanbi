@@ -3,11 +3,6 @@
 ### 🚀 About Me
 I love building applications that solve real-world problems and experimenting with new tech stacks.
 
--  I’m currently working on **[Project Name or Tech Stack]**
--  I’m currently learning **[Technology or Framework]**
--  Ask me about **[Topics you know well]**
--  How to reach me: **[https://linkedin.com/faithakanbi]**
-
 ---
 
 ### 🛠️ Tech Stack & Tools
