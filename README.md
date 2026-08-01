@@ -9,10 +9,10 @@ I love building applications that solve real-world problems and experimenting wi
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | `JavaScript`, `TypeScript`, `Python`, `HTML/CSS` |
-| **Frameworks** | `React`, `Node.js`, `Next.js`, `TailwindCSS` |
-| **Databases** | `PostgreSQL`, `MongoDB`, `Redis` |
-| **DevOps & Tools** | `Git`, `Docker`, `AWS`, `Linux` |
+| **Languages** | `JavaScript`, `TypeScript`, `Python`, `HTML/CSS`, `Java`, `C/C++`|
+| **Frameworks** | `React`, `Node.js`, `Next.js`, `Bootstrap`, `Cypress`, `Mocha` |
+| **Databases** | `PostgreSQL`, `MongoDB`, `MySQL` |
+| **DevOps & Tools** | `Git`, `Docker`, ``, `Linux` |
 
 
 ---
