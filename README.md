@@ -1,7 +1,7 @@
-# Hi there, I'm Faith Akanbi 👋
+# Hi there, I'm Faith Akanbi
 
 ### 🚀 About Me
-I love building applications that solve real-world problems and experimenting with new tech stacks.
+I love the process of creation and learning. A lot of what is featured on my Github profile is me learning new technologies. Right now I am getting deep in Machine Learning with Break Through Tech, working on a project with American Express! On the side I am learning about SQL and Databases. I love the intersection between business and technology and a job in that field. Aiming for Business Analyst, Tech Sales, Tech Consulting, or FinTech.
 
 ---
 
@@ -16,10 +16,3 @@ I love building applications that solve real-world problems and experimenting wi
 
 
 ---
-
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com" target="https://linkedin.com/faithakanbi">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-</p>
